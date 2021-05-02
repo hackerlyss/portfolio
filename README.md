@@ -5,12 +5,15 @@ I will continue to polish and edit this as I hone new skills.
 # Update 05/01/2021:
 Major update on overall design of my portfolio site thanks to Materialize and new fonts.
 
+# Live Links:
+Here is a link to the GitHub repo: (https://github.com/hackerlyss/portfolio)
+Here is the webpage: (https://hackerlyss.github.io/portfolio/)
+
 # Technologies used:
 HTML, CSS, JavaScript, Materialize, VS Code
 Here is a screenshot of my page: ![Website preview](./assets/images/BigPreview.png)
 ![Mobile preview](./assets/images/ResponsivePreview.png)
-Here is a link to the GitHub repo: (https://github.com/hackerlyss/portfolio)
-Here is the webpage: (https://hackerlyss.github.io/portfolio/)
+
 
 # License:
 MIT License
