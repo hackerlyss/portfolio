@@ -1,12 +1,17 @@
 # Portfolio for Alyssa Concepcion
 
-This page is made from scratch to display a portfolio of my work. I needed a navbar to stay at the top of my page, and a main-body to display the main points of my portfolio. The sidebar has a list of languages that I currently know.
+Welcome to my portfolio page, here is where I inform the user about myself and showcase projects that I am proud of.
+I will continue to polish and edit this as I hone new skills.
+# Update 05/01/2021:
+Major update on overall design of my portfolio site thanks to Materialize and new fonts.
+
+# Technologies used:
+HTML, CSS, JavaScript, Materialize, VS Code
 Here is a screenshot of my page: ![Website preview](./assets/images/BigPreview.png)
 ![Mobile preview](./assets/images/ResponsivePreview.png)
 Here is a link to the GitHub repo: (https://github.com/hackerlyss/portfolio)
 Here is the webpage: (https://hackerlyss.github.io/portfolio/)
-# Technologies used:
-HTML, CSS, JavaScript, Materialize, VS Code
+
 # License:
 MIT License
 
